@@ -7,7 +7,7 @@ layout: default
 
 I'm Zirui Li, a Master's student at BUPT. My research focuses on Multi-Object Tracking, 3D perception, and multimodal learning.
 
-![photo](/assets/images/avatar.jpg "Me")
+
 
 ## 📄 Publications
 
