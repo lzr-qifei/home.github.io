@@ -9,7 +9,7 @@ layout: default
 
 # 👋 Hello
 
-I'm Zirui Li, a Master's student at BUPT. My research focuses on Multi-Object Tracking, 3D perception, and multimodal learning.
+I'm Zirui Li, a Master's student at Beijing University of Post and Telecommunications. My research focuses on Multi-Object Tracking, 3D perception, and multimodal learning.
 
 
 
@@ -21,8 +21,8 @@ I'm Zirui Li, a Master's student at BUPT. My research focuses on Multi-Object Tr
 
 ## 🎓 Education
 
-- 2023–Present: M.S., BUPT  
-- 2019–2023: B.Eng., BUPT
+- 2023.6-Present, M.S., School of Intelligent Engineering and Automation, Beijing University of Post and Telecommunications,
+- 2019.9-2023.6, Undergraduate, School of Intelligent Engineering and Automation, Beijing University of Post and Telecommunications,
 
 ## 🏢 Internships
 
