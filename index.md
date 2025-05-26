@@ -2,7 +2,8 @@
 title: Welcome!
 layout: default
 ---
-![photo](/assets/images/avatar.jpg "Me")
+![photo](https://raw.githubusercontent.com/lzr-qifei/home.github.io/main/assets/images/avatar.jpg "Me")
+
 
 # 👋 Hello
 
