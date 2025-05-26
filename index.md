@@ -3,8 +3,9 @@ title: Welcome!
 layout: default
 ---
 
-
+<div style="text-align:center;">
 <img src="https://raw.githubusercontent.com/lzr-qifei/home.github.io/main/assets/images/avatar.jpg" alt="Me" style="width:150px; border-radius:50%;">
+</div>
 
 # 👋 Hello
 
