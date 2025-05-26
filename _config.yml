@@ -1,0 +1,11 @@
+title: Zirui Li's Homepage
+description: M.S. student at BUPT, Multi-Object Tracking researcher
+theme: jekyll-theme-minimal
+
+author:
+  name: Zirui Li
+  avatar: /assets/avatar.jpg
+  bio: M.S. student at BUPT, focused on Multi-Object Tracking
+
+# # 添加头像支持
+# logo: /assets/avatar.jpg
