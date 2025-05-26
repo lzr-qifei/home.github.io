@@ -2,6 +2,7 @@
 title: Welcome!
 layout: default
 ---
+![photo](/assets/images/avatar.jpg "Me")
 
 # 👋 Hello
 
