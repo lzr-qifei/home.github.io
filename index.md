@@ -1,29 +1,28 @@
 ---
-title: 主页
-permalink: /
-layout: single
+title: Welcome!
+layout: default
 ---
 
-# Welcome to my homepage 👋
+# 👋 Hello
 
-My name is Zirui Li, I am currently a second-year master's student at Beijing University of Post and Telecommunications. I am expected to receive my master's degree in 2026. My current research focuses primarily on Multi-Object Tracking (MOT), and my broader interests include 3D visual perception and multimodal perception.
+I'm Zirui Li, a Master's student at BUPT. My research focuses on Multi-Object Tracking, 3D perception, and multimodal learning.
 
----
+## 📄 Publications
 
-## Publications
-- **Look along trajectory**: Multi-view Pedestrian Tracking with Mahalanobis Distance-Based Association
-- **Trajectory-Aware Attack**: Explainable Adversarial Attack against Multiple Object Trackers
+- **Look along trajectory**: Multi-view Pedestrian Tracking with Mahalanobis Distance-Based Association  
+- **Trajectory-Aware Attack**: Explainable Adversarial Attack against Multiple Object Trackers  
 - **See Through Views**: View-Aware feature learning for Multi-View Detection and Tracking
 
----
+## 🎓 Education
 
-## Education
-- 2023.6–Present, M.S., School of Intelligent Engineering and Automation, BUPT  
-- 2019.9–2023.6, B.S., School of Intelligent Engineering and Automation, BUPT
+- 2023–Present: M.S., BUPT  
+- 2019–2023: B.Eng., BUPT
 
----
+## 🏢 Internships
 
-## Internships
-- 2024.4–2024.10, Research Assistant at Sensetime, Beijing
+- 2024.4–2024.10: Research Intern at SenseTime
 
----
+## 📫 Contact
+
+- GitHub: [lzr-qifei](https://github.com/lzr-qifei)  
+- Email: lzrqna974@gmail.com
