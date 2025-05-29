@@ -26,7 +26,7 @@ I'm Zirui Li, a Master's student at Beijing University of Post and Telecommunica
 
 ## 🏢 Internships
 
-- 2024.4–2024.10: Research Intern at SenseTime
+
 
 ## 📫 Contact
 
